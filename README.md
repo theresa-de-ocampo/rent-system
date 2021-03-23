@@ -27,9 +27,13 @@ The entire system did not use any GUI builder, utilizing Object Oriented Program
 2. Java Development Kit (JDK) 13 *(or higher)*.
 
 ## Installation
-1. Add the jar files in ```External Files/Jar Files/```.
-2. Run the package's main class: ```src/RentSystem/Login.java```.
-3. Provide the following access details.
+1. Clone the repository.
+	```
+		git clone https://github.com/theresa-de-ocampo/rent-system.git
+	```
+2. Add the jar files in ```External Files/Jar Files/```.
+3. Run the package's main class: ```src/RentSystem/Login.java```.
+4. Provide the following access details.
 	```
 		Username: AndrionServices
 		Password: DemoPassword
